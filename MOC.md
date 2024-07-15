@@ -15,9 +15,14 @@ Use this to navigate through the notes.
 ### Maths
 
 ### Statistics
+#### Unit 1 - Introduction to Data and Descriptive Measures
+    - [[1720942632-KIBS|Measures of Central Tendency]]
 
 ### Machine Learning
+#### Unit 1 - 
 
 ### Fundamental of AI
+#### Unit 1 - Introduction to AI
+    - [[Introduction to AI]]
 
 ### Research Methodology

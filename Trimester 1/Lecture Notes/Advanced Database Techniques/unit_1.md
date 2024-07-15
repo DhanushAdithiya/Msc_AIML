@@ -1,3 +1,9 @@
+---
+id: unit_1
+aliases: []
+tags: []
+---
+
 # Database System Concepts and Conceptual Modeling
 
 ## SQL Datatype
