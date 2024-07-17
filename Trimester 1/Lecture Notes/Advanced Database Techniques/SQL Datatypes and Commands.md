@@ -1,10 +1,10 @@
 ---
-id: unit_1
+id: SQL Datatypes and Commands
 aliases: []
 tags: []
 ---
 
-# Database System Concepts and Conceptual Modeling
+# SQL Datatypes and Commands
 
 ## SQL Datatype
 ### String

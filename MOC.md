@@ -9,8 +9,12 @@ Use this to navigate through the notes.
 
 ## Trimester 1
 ### ADT
-#### Unit 1
-    - [[unit_1|Database System Concepts and Conceptual Modeling]]
+#### Unit 1 - Database System Concepts and Conceptual Modeling
+    - [[SQL Datatypes and Commands|Sql Datatypes and Commands]]
+    - [[SQL Datatypes and Commands|sql Datatypes and Commands]]
+    - [[1721219823-ZODC|SQL Predefined Functions]]
+    - [[1721221062-QOPE|SQL Joins]]
+    - [[1721224874-TVMH|SQL order of execution]]
 
 ### Maths
 
