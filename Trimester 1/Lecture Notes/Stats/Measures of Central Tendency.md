@@ -8,6 +8,15 @@ tags: []
 # Measures of Central Tendency
 Statistical constants which enable us to comprehend in a single effort the significance of the whole. They give us the idea about the concentration of the values in the central part of the distribution.
 
+## Characteristics of a good avergae
+- It should be easy to understand
+- It should be simple to compute
+- It should take into account all the observations
+- It shoudl be rigidly defined
+- Capable of further algebraic treatment
+- Sampling stability
+- Should not be affected by outliers
+
 The following are the five measures of central tendency:
 ## Arithmetic Mean
 It is the sum of all the observations divided by the number of observations. 

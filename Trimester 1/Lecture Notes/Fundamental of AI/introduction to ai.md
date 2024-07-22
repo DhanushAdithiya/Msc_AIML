@@ -33,11 +33,45 @@ An agent is something that acts. A Rational agent is one that acts so as to achi
 There are some of the disciplines that contributed ideas, viewpoints, and techniques to AI.
 
 ### Philosophy
+AI takes the following ideas from philosphy:
+
+- Can formal rules bt used to draw valid conclusions?
+    Aristotle was the first to formulate the set of laws that goven the rational parts of the mind. Given initial premise with the help of the informal syllogims he developed one was able to generate conclusions mechanically.
+
+- How does the mind arise from a physical brain?
+- Where does knowledge form?
+- How does knowledge lead to action?
+
+
 ### Mathematics
+Mathematics is requried to take the leap for formal science from fundamental ideas of AI that was laid down my philisophy
+
 ### Economics
+- How should we make decisions so as to maximize playoff
+- How should we do this wen other may not go along?
+- How should we do this when the playoff may be far in the future?
+
 ### Neuroscience
+Neuroscience is the study of the nervous system. This knowlegde of how the brain works directly helps the development of AI
+
 ### Psychology
+Psychology helps answer the rational questions regarding how humans think.
+
 ### Computer Engineering
+How can we build an efficient computer?
+For AI to succeed, we need two things:
+
+Intelligence and artifact.
+
+The computer has been the artifact of the choice.
+
 ### Control Theory and Cybernetics
+Control theory and cybernetics deals with the self controlling machine. Modern control theory has its goal to design the system that maximize an objective function overtime. This roughly match the AI view: designing system that behave optimally.
+
 ### Linguistics
+Language is directly related to thought. Modern linguistics and AI, were born at about the same time and grew up together, intersecting in a hybrid field called computational linguistics or natural language processing.
+
+
+REFERENCES:
+[Foundations of AI](https://www.ques10.com/p/47993/foundation-of-ai-1/) 
 

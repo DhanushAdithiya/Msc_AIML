@@ -20,7 +20,9 @@ Use this to navigate through the notes.
 
 ### Statistics
 #### Unit 1 - Introduction to Data and Descriptive Measures
+    - [[Introduction to statistics]]
     - [[1720942632-KIBS|Measures of Central Tendency]]
+    - [[1721660345-SDKQ|Measures of dispersion]]
 
 ### Machine Learning
 #### Unit 1 - 
@@ -28,5 +30,6 @@ Use this to navigate through the notes.
 ### Fundamental of AI
 #### Unit 1 - Introduction to AI
     - [[Introduction to AI]]
+    - [[Types of AI]]
 
 ### Research Methodology
